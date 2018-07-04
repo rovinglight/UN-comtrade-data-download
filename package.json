@@ -1,0 +1,17 @@
+{
+  "name": "datadownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "download-file": "^0.1.5",
+    "sleep": "^5.1.1",
+    "url-download-file": "^1.1.0"
+  }
+}
